@@ -1,0 +1,15 @@
+{
+  "name": "publishfuntion",
+  "version": "1.0.0",
+  "description": "function de planification des publication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Dollarstore",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.1.2",
+    "firebase-admin": "^9.12.0"
+  }
+}
